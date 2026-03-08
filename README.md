@@ -8,7 +8,7 @@ El sistema de la compañía exporta información de **proveedores**, **clientes*
 
 ## Arquitectura
 
-![Arquitectura del pipeline](.project-aws-glue-redshift/docs/arquitectura.png)
+![Arquitectura del pipeline](./docs/arquitectura.png)
 
 El flujo sigue un modelo de capas (raw → processed → final):
 
